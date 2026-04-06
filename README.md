@@ -365,7 +365,7 @@ Proyek dikembangkan dengan metode **Agile** menggunakan pendekatan sprint:
 
 ## 📄 Lisensi
 
-Proyek ini dibuat untuk keperluan akademis — **Tugas Mata Kuliah Pemrograman Berbasis Objek, Manajemen Informatika UNESA 2026**.
+Proyek ini dibuat untuk keperluan akademis — **Tugas Mata Kuliah Pemrograman Mobile, Manajemen Informatika UNESA 2026**.
 
 ---
 
